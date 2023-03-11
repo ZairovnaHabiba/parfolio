@@ -9,7 +9,7 @@ elVersionBtn.addEventListener('click', function () {
 
 var test = document.getElementById("test");
 
-var text = "Oygul Ibrokhimova";
+var text = "Habiba Erkinova";
 var result = "";
 window.addEventListener("load", (event) => {
     for (let i = 0; i < text.length; i++) {
